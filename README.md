@@ -8,7 +8,7 @@ Regression analysis in R using the 2019 World Happiness Report dataset to predic
 
 The goal is to figure out which factors best predict a country's happiness score. The analysis covers data cleaning, correlation checks, and fitting a few linear regression models to compare performance.
 
-Data source: [World Happiness Report 2019](https://worldhappiness.report/)
+Data source: [World Happiness Report 2019](https://www.kaggle.com/datasets/PromptCloudHQ/world-happiness-report-2019?resource=download)
 
 ---
 
